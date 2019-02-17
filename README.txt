@@ -1,9 +1,9 @@
 
 TITLE: 
-Medcare - Free HTML5 Bootstrap Template for Medical and Health Websites
+Escola Regional de Informática 2019 - Free HTML5 Bootstrap Template for Medical and Health Websites
 
 AUTHOR:
-DESIGNED & DEVELOPED by QBOOTSTRAP.COM
+DESIGNED & DEVELOPED by IGOR GARCIA
 
 Website: 		http://qbootstrap.com/
 Twitter: 		http://twitter.com/Q_bootstrap
